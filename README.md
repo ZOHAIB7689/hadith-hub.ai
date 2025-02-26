@@ -11,6 +11,9 @@ A Streamlit-based web application that leverages Google's Gemini AI to search an
 - **Error Handling**: Robust error handling and retry mechanisms
 - **Input Validation**: Ensures proper query formatting and handling
 
+# Live Apllication
+Check it out here ➡ https://hadees.streamlit.app/
+
 ## Prerequisites 🔧
 
 Before running the application, make sure you have Python 3.8+ installed on your system. You'll also need the following:
