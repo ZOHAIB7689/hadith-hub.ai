@@ -222,7 +222,6 @@ def main():
     with col1:
         if st.session_state.language == "English":
             st.markdown("<h1 class='main-header'>🕋 Quranic Insights</h1>", unsafe_allow_html=True)
-            st.markdown("<p class='subtitle'>Illuminating Islamic Wisdom</p>", unsafe_allow_html=True)
             st.markdown("""
             Search for knowledge from Islamic sources including:
             - The Holy Quran
