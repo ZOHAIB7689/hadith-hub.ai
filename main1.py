@@ -193,7 +193,7 @@ def main():
         border-left: 5px solid #3498db;
     }
     .stButton>button {
-        background-color: #00ffcc;
+        background-color: #006652;
         color: white;
         font-weight: bold;
         padding: 0.5rem 1rem;
@@ -221,7 +221,7 @@ def main():
     # Main content
     with col1:
         if st.session_state.language == "English":
-            st.markdown("<h1 class='main-header'>🕋 Quranic Insights</h1>", unsafe_allow_html=True)
+            st.markdown("<h1 class='main-header'>🕋 Quranic Insights</h1>", unsafe_allow_html=True) 
             st.markdown("""
             Search for knowledge from Islamic sources including:
             - The Holy Quran
