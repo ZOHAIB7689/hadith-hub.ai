@@ -1,17 +1,17 @@
-# Islamic Knowledge Finder 📖
+# Islamic Knowledge Explorer 🌟
 
 A Streamlit-based web application that leverages Google's Gemini AI to search and provide references from Islamic texts including the Quran, Hadith, and Islamic history.
 
 ## Features ✨
 
-- **Smart Islamic Search**: Search through Islamic texts with specific queries
-- **Detailed References**: Get precise references from the Quran and Hadith collections
-- **Search History**: Keep track of previous searches in a convenient sidebar
+- **Intelligent Islamic Search**: Search through Islamic texts with specific queries
+- **Accurate References**: Get precise references from the Quran and Hadith collections
+- **Search Log**: Keep track of previous searches in a convenient sidebar
 - **User-Friendly Interface**: Clean and intuitive Streamlit-based UI
 - **Error Handling**: Robust error handling and retry mechanisms
 - **Input Validation**: Ensures proper query formatting and handling
 
-# Live Apllication
+# Live Application
 Check it out here ➡ https://hadees.streamlit.app/
 
 ## Prerequisites 🔧
@@ -25,8 +25,8 @@ Before running the application, make sure you have Python 3.8+ installed on your
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/islamic-knowledge-finder.git
-cd islamic-knowledge-finder
+git clone https://github.com/yourusername/islamic-knowledge-explorer.git
+cd islamic-knowledge-explorer
 ```
 
 2. Create a virtual environment (recommended):
@@ -76,7 +76,7 @@ streamlit run app.py
 ## Project Structure 📁
 
 ```
-islamic-knowledge-finder/
+islamic-knowledge-explorer/
 ├── app.py                 # Main application file
 ├── .env                   # Environment variables
 ├── requirements.txt       # Project dependencies
