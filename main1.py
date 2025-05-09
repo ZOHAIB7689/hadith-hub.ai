@@ -221,7 +221,7 @@ def main():
     # Main content
     with col1:
         if st.session_state.language == "English":
-            st.markdown("<h1 class='main-header'>🕋 Quranic Insights</h1>", unsafe_allow_html=True) 
+            st.markdown("<h1 class='main-header'>🕋 Hidaya Ai</h1>", unsafe_allow_html=True) 
             st.markdown("""
             Search for knowledge from Islamic sources including:
             - The Holy Quran
@@ -230,7 +230,7 @@ def main():
             """)
         else:  # Urdu
             st.markdown("<h1 class='main-header'>🕋 قرآنی بصیرتیں</h1>", unsafe_allow_html=True)
-            st.markdown("<p class='subtitle'>اسلامی حکمت کو روشن کرنا</p>", unsafe_allow_html=True)
+            st.markdown("<p class='subtitle'>AI ہداية</p>", unsafe_allow_html=True)
             st.markdown("""
             اسلامی ذرائع سے علم تلاش کریں بشمول:
             - قرآن پاک
